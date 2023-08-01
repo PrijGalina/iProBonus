@@ -1,0 +1,8 @@
+.container {
+  position: relative;
+  margin-top: -49px;
+  height: 148px;
+  background: rgb(210,51,62);
+  background: linear-gradient(180deg, rgba(210,51,62,1) 0%, rgba(245,75,85,1) 100%);
+  z-index: 0;
+}

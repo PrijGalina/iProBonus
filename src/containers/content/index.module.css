@@ -1,0 +1,6 @@
+.container {
+  position: relative;
+  min-height: 145px;
+  padding: 20px 0;
+  z-index: 1;
+}
