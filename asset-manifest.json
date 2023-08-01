@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iProBonus/static/css/main.9f11e4fa.css",
-    "main.js": "/iProBonus/static/js/main.501f2085.js",
-    "static/media/OpenSans-Bold.ttf": "/iProBonus/static/media/OpenSans-Bold.45847e90261782dc01a6.ttf",
-    "static/media/OpenSans-Regular.ttf": "/iProBonus/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
-    "index.html": "/iProBonus/index.html",
-    "main.9f11e4fa.css.map": "/iProBonus/static/css/main.9f11e4fa.css.map",
-    "main.501f2085.js.map": "/iProBonus/static/js/main.501f2085.js.map"
+    "main.css": "C:/Program Files/Git/iProBonus/static/css/main.a170d8a5.css",
+    "main.js": "C:/Program Files/Git/iProBonus/static/js/main.501f2085.js",
+    "static/media/OpenSans-Bold.ttf": "C:/Program Files/Git/iProBonus/static/media/OpenSans-Bold.45847e90261782dc01a6.ttf",
+    "static/media/OpenSans-Regular.ttf": "C:/Program Files/Git/iProBonus/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
+    "index.html": "C:/Program Files/Git/iProBonus/index.html",
+    "main.a170d8a5.css.map": "C:/Program Files/Git/iProBonus/static/css/main.a170d8a5.css.map",
+    "main.501f2085.js.map": "C:/Program Files/Git/iProBonus/static/js/main.501f2085.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f11e4fa.css",
+    "static/css/main.a170d8a5.css",
     "static/js/main.501f2085.js"
   ]
 }
