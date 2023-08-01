@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/iProBonus/static/css/main.9f11e4fa.css",
+    "main.js": "/iProBonus/static/js/main.501f2085.js",
+    "static/media/OpenSans-Bold.ttf": "/iProBonus/static/media/OpenSans-Bold.45847e90261782dc01a6.ttf",
+    "static/media/OpenSans-Regular.ttf": "/iProBonus/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
+    "index.html": "/iProBonus/index.html",
+    "main.9f11e4fa.css.map": "/iProBonus/static/css/main.9f11e4fa.css.map",
+    "main.501f2085.js.map": "/iProBonus/static/js/main.501f2085.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f11e4fa.css",
+    "static/js/main.501f2085.js"
+  ]
+}
