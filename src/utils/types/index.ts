@@ -9,7 +9,3 @@ export interface IAccessTokenData {
   };
   accessToken: string;
 }
-
-export interface IBonusesData {
-  
-}

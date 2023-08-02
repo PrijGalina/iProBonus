@@ -4,14 +4,13 @@ import { MobileHeader } from './containers/mobile-header';
 import { Header } from './containers/header';
 import { Content } from './containers/content';
 import { Footer } from './containers/footer';
-import { Bonuses } from './views/bonuses/bonuses';
+import { Bonuses } from './views/bonuses';
 import axios from 'axios';
 import {AccessKey, ClientID, DeviceID} from './utils/constants'
 import { saveToken } from './services/token';
 import { IAccessTokenData } from './utils/types';
 
 const App = () => {
-
   useEffect(() => {
     fetchAccessToken()
   }, [])

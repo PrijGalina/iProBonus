@@ -5,8 +5,8 @@ import { getCurrentQuantity, getDateBurning, getBurningQuantity } from '../../st
 import { ReactComponent as FireIcon } from '../../assets/img/fire.svg';
 
 export const BonusCard: FC = (): JSX.Element =>  {
-  let current_quantity = useAppSelector(getCurrentQuantity);
   let date_burning = new Date(useAppSelector(getDateBurning));
+  let current_quantity = useAppSelector(getCurrentQuantity);
   let burning_quantity = useAppSelector(getBurningQuantity);
 
   return (

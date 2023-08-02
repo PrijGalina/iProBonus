@@ -21,7 +21,7 @@ export const Bonuses: FC = () => {
   }, []);
 
   useEffect(() => {
-    if (data) {
+    if (data?.data) {
       dispatch(setCurrentQuantity(data.data.currentQuantity));
       dispatch(setDateBurning(data.data.dateBurning));
       dispatch(setBurningQuantity(data.data.forBurningQuantity));
