@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/iProBonus/static/css/main.9f11e4fa.css",
-    "main.js": "/iProBonus/static/js/main.a0a4ee68.js",
+    "main.js": "/iProBonus/static/js/main.c2322765.js",
     "static/media/OpenSans-Bold.ttf": "/iProBonus/static/media/OpenSans-Bold.45847e90261782dc01a6.ttf",
     "static/media/OpenSans-Regular.ttf": "/iProBonus/static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf",
     "static/media/logo.svg": "/iProBonus/static/media/logo.7e66f360ffd4aa29e4ac0f3629ce2096.svg",
@@ -9,10 +9,10 @@
     "static/media/fire.svg": "/iProBonus/static/media/fire.a74c997462fe9ece0d6a3e2c6ccdcf26.svg",
     "index.html": "/iProBonus/index.html",
     "main.9f11e4fa.css.map": "/iProBonus/static/css/main.9f11e4fa.css.map",
-    "main.a0a4ee68.js.map": "/iProBonus/static/js/main.a0a4ee68.js.map"
+    "main.c2322765.js.map": "/iProBonus/static/js/main.c2322765.js.map"
   },
   "entrypoints": [
     "static/css/main.9f11e4fa.css",
-    "static/js/main.a0a4ee68.js"
+    "static/js/main.c2322765.js"
   ]
 }
